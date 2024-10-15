@@ -7,7 +7,7 @@ Python, Django, Bootstrap
 
 ## Data Initialisation
 
-After forking this repository, you will need to load the country data from the `countries.json` file to ensure the application functions properly. This file contains the data relating to country names, continents, and populations.
+After forking this repository, if the data is not populated, you will need to load the country data from the `countries.json` file to ensure the application functions properly. This file contains the data related to country names, continents, and populations.
 
-To load the data, you can use the following command within the root directory of the project to load the data and populate the database: 
+To load the data, depending on your environment, you can use one of the following commands within the root directory of the project to load the data and populate the database: 
 python manage.py loaddata countries.json or python3 manage.py loaddata countries.json.
