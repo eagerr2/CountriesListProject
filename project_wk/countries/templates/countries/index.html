@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+
+{% block title %}Countries List{% endblock title %}
+
+{% block content %}
+<h1>Countries Home Page</h1>
+<h3>For lovers of travel</h3>
+
+<hr>
+<h2>Countries ({{ countries | length }})</h2>
+<ul>
+    {% for c in countries %}
+        <li>{{ c }}</li>
+    {% empty %}
+        <li>No countries yet.</li>
+    {% endfor %}
+</ul>
+
+<hr>
+{% for continent_name, continent_countries in continent.items %}
+    <h2>{{ continent_name }}</h2>
+    <ul>
+        {% for country in continent_countries %}
+            <li>{{ country }}</li>
+        {% empty %}
+            <li>No {{ continent_name }} countries yet.</li>
+        {% endfor %}
+    </ul>
+{% endfor %}
+{% endblock content %}

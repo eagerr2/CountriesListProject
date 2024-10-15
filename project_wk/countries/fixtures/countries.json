@@ -1,0 +1,250 @@
+[
+    {
+      "model": "countries.Country",
+      "fields": {
+        "nation": "Albania",
+        "population": 2877797,
+        "continent": "Europe"
+      }
+    },
+    {
+      "model": "countries.Country",
+      "fields": {
+        "nation": "Andorra",
+        "population": 77265,
+        "continent": "Europe"
+      }
+    },
+    {
+      "model": "countries.Country",
+      "fields": {
+        "nation": "Australia",
+        "population": 25687041,
+        "continent": "Oceania"
+      }
+    },
+    {
+      "model": "countries.Country",
+      "fields": {
+        "nation": "Brazil",
+        "population": 213993437,
+        "continent": "South America"
+      }
+    },
+    {
+      "model": "countries.Country",
+      "fields": {
+        "nation": "Belgium",
+        "population": 11589623,
+        "continent": "Europe"
+      }
+    },
+    {
+      "model": "countries.Country",
+      "fields": {
+        "nation": "Canada",
+        "population": 38005238,
+        "continent": "North America"
+      }
+    },
+    {
+      "model": "countries.Country",
+      "fields": {
+        "nation": "China",
+        "population": 1444216107,
+        "continent": "Asia"
+      }
+    },
+    {
+      "model": "countries.Country",
+      "fields": {
+        "nation": "France",
+        "population": 65273511,
+        "continent": "Europe"
+      }
+    },
+    {
+      "model": "countries.Country",
+      "fields": {
+        "nation": "Germany",
+        "population": 83240525,
+        "continent": "Europe"
+      }
+    },
+    {
+      "model": "countries.Country",
+      "fields": {
+        "nation": "India",
+        "population": 1393409038,
+        "continent": "Asia"
+      }
+    },
+    {
+      "model": "countries.Country",
+      "fields": {
+        "nation": "Indonesia",
+        "population": 276361783,
+        "continent": "Asia"
+      }
+    },
+    {
+      "model": "countries.Country",
+      "fields": {
+        "nation": "Ireland",
+        "population": 4994724,
+        "continent": "Europe"
+      }
+    },
+    {
+      "model": "countries.Country",
+      "fields": {
+        "nation": "Italy",
+        "population": 60367477,
+        "continent": "Europe"
+      }
+    },
+    {
+      "model": "countries.Country",
+      "fields": {
+        "nation": "Japan",
+        "population": 126476461,
+        "continent": "Asia"
+      }
+    },
+    {
+      "model": "countries.Country",
+      "fields": {
+        "nation": "Kenya",
+        "population": 53771296,
+        "continent": "Africa"
+      }
+    },
+    {
+      "model": "countries.Country",
+      "fields": {
+        "nation": "Luxembourg",
+        "population": 634814,
+        "continent": "Europe"
+      }
+    },
+    {
+      "model": "countries.Country",
+      "fields": {
+        "nation": "Mexico",
+        "population": 128932753,
+        "continent": "North America"
+      }
+    },
+    {
+      "model": "countries.Country",
+      "fields": {
+        "nation": "New Zealand",
+        "population": 5084300,
+        "continent": "Oceania"
+      }
+    },
+    {
+      "model": "countries.Country",
+      "fields": {
+        "nation": "Nigeria",
+        "population": 206139587,
+        "continent": "Africa"
+      }
+    },
+    {
+      "model": "countries.Country",
+      "fields": {
+        "nation": "Portugal",
+        "population": 10196709,
+        "continent": "Europe"
+      }
+    },
+    {
+      "model": "countries.Country",
+      "fields": {
+        "nation": "Russia",
+        "population": 145912025,
+        "continent": "Europe"
+      }
+    },
+    {
+      "model": "countries.Country",
+      "fields": {
+        "nation": "South Africa",
+        "population": 59308690,
+        "continent": "Africa"
+      }
+    },
+    {
+      "model": "countries.Country",
+      "fields": {
+        "nation": "South Korea",
+        "population": 51305180,
+        "continent": "Asia"
+      }
+    },
+    {
+      "model": "countries.Country",
+      "fields": {
+        "nation": "Spain",
+        "population": 46754783,
+        "continent": "Europe"
+      }
+    },
+    {
+      "model": "countries.Country",
+      "fields": {
+        "nation": "Sweden",
+        "population": 10353442,
+        "continent": "Europe"
+      }
+    },
+    {
+      "model": "countries.Country",
+      "fields": {
+        "nation": "Thailand",
+        "population": 69799978,
+        "continent": "Asia"
+      }
+    },
+    {
+      "model": "countries.Country",
+      "fields": {
+        "nation": "Ukraine",
+        "population": 43733762,
+        "continent": "Europe"
+      }
+    },
+    {
+      "model": "countries.Country",
+      "fields": {
+        "nation": "United Kingdom",
+        "population": 68207114,
+        "continent": "Europe"
+      }
+    },
+    {
+      "model": "countries.Country",
+      "fields": {
+        "nation": "United States of America",
+        "population": 331002651,
+        "continent": "North America"
+      }
+    },
+    {
+      "model": "countries.Country",
+      "fields": {
+        "nation": "Vietnam",
+        "population": 97338583,
+        "continent": "Asia"
+      }
+    },
+    {
+      "model": "countries.Country",
+      "fields": {
+        "nation": "Zambia",
+        "population": 18383955,
+        "continent": "Africa"
+      }
+    }
+]
